@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Jan",
+    "Revenues": 16000,
+    "Profits": 4000,
+    "Profit %": 25
+  },
+  {
+    "label": "Feb",
+    "Revenues": 20000,
+    "Profits": 5000,
+    "Profit %": 25
+  },
+  {
+    "label": "Mar",
+    "Revenues": 18000,
+    "Profits": 3000,
+    "Profit %": 16.66
+  },
+  {
+    "label": "Apr",
+    "Revenues": 19000,
+    "Profits": 4000,
+    "Profit %": 21.05
+  },
+  {
+    "label": "May",
+    "Revenues": 15000,
+    "Profits": 1000,
+    "Profit %": 6.66
+  },
+  {
+    "label": "Jun",
+    "Revenues": 21000,
+    "Profits": 7000,
+    "Profit %": 33.33
+  },
+  {
+    "label": "Jul",
+    "Revenues": 16000,
+    "Profits": 1000,
+    "Profit %": 6.25
+  },
+  {
+    "label": "Aug",
+    "Revenues": 20000,
+    "Profits": 4000,
+    "Profit %": 25
+  },
+  {
+    "label": "Sep",
+    "Revenues": 17000,
+    "Profits": 1000,
+    "Profit %": 5.88
+  },
+  {
+    "label": "Oct",
+    "Revenues": 22000,
+    "Profits": 8000,
+    "Profit %": 36.36
+  },
+  {
+    "label": "Nov",
+    "Revenues": 19000,
+    "Profits": 2000,
+    "Profit %": 10.52
+  },
+  {
+    "label": "Dec",
+    "Revenues": 23000,
+    "Profits": 7000,
+    "Profit %": 30.43
+  }
+]

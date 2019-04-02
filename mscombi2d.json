@@ -1,0 +1,74 @@
+[
+  {
+    "Month": "Jan",
+    "Actual Revenue": 16000,
+    "Projected Revenue": 15000,
+    "Profit": 4000
+  },
+  {
+    "Month": "Feb",
+    "Actual Revenue": 20000,
+    "Projected Revenue": 16000,
+    "Profit": 5000
+  },
+  {
+    "Month": "Mar",
+    "Actual Revenue": 18000,
+    "Projected Revenue": 17000,
+    "Profit": 3000
+  },
+  {
+    "Month": "Apr",
+    "Actual Revenue": 19000,
+    "Projected Revenue": 18000,
+    "Profit": 4000
+  },
+  {
+    "Month": "May",
+    "Actual Revenue": 15000,
+    "Projected Revenue": 19000,
+    "Profit": 1000
+  },
+  {
+    "Month": "Jun",
+    "Actual Revenue": 21000,
+    "Projected Revenue": 19000,
+    "Profit": 7000
+  },
+  {
+    "Month": "Jul",
+    "Actual Revenue": 16000,
+    "Projected Revenue": 19000,
+    "Profit": 1000
+  },
+  {
+    "Month": "Aug",
+    "Actual Revenue": 20000,
+    "Projected Revenue": 19000,
+    "Profit": 4000
+  },
+  {
+    "Month": "Sep",
+    "Actual Revenue": 17000,
+    "Projected Revenue": 20000,
+    "Profit": 1000
+  },
+  {
+    "Month": "Oct",
+    "Actual Revenue": 25000,
+    "Projected Revenue": 21000,
+    "Profit": 8000
+  },
+  {
+    "Month": "Nov",
+    "Actual Revenue": 19000,
+    "Projected Revenue": 22000,
+    "Profit": 2000
+  },
+  {
+    "Month": "Dec",
+    "Actual Revenue": 23000,
+    "Projected Revenue": 23000,
+    "Profit": 7000
+  }
+]

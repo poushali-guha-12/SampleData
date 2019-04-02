@@ -1,0 +1,146 @@
+[
+  {
+    "label": "Jan 2017",
+    "Revenues": 16000,
+    "Profits": 4000,
+    "Profit %": 25
+  },
+  {
+    "label": "Feb 2017",
+    "Revenues": 20000,
+    "Profits": 5000,
+    "Profit %": 25
+  },
+  {
+    "label": "Mar 2017",
+    "Revenues": 18000,
+    "Profits": 3000,
+    "Profit %": 16.66
+  },
+  {
+    "label": "Apr 2017",
+    "Revenues": 19000,
+    "Profits": 4000,
+    "Profit %": 21.05
+  },
+  {
+    "label": "May 2017",
+    "Revenues": 15000,
+    "Profits": 1000,
+    "Profit %": 6.66
+  },
+  {
+    "label": "Jun 2017",
+    "Revenues": 21000,
+    "Profits": 7000,
+    "Profit %": 33.33
+  },
+  {
+    "label": "Jul 2017",
+    "Revenues": 16000,
+    "Profits": 1000,
+    "Profit %": 6.25
+  },
+  {
+    "label": "Aug 2017",
+    "Revenues": 20000,
+    "Profits": 4000,
+    "Profit %": 25
+  },
+  {
+    "label": "Sep 2017",
+    "Revenues": 17000,
+    "Profits": 1000,
+    "Profit %": 5.88
+  },
+  {
+    "label": "Oct 2017",
+    "Revenues": 22000,
+    "Profits": 8000,
+    "Profit %": 36.36
+  },
+  {
+    "label": "Nov 2017",
+    "Revenues": 19000,
+    "Profits": 2000,
+    "Profit %": 10.52
+  },
+  {
+    "label": "Dec 2017",
+    "Revenues": 23000,
+    "Profits": 7000,
+    "Profit %": 30.43
+  },
+  {
+    "label": "Jan 2018",
+    "Revenues": 24000,
+    "Profits": 6000,
+    "Profit %": 25
+  },
+  {
+    "label": "Feb 2018",
+    "Revenues": 25000,
+    "Profits": 7000,
+    "Profit %": 28
+  },
+  {
+    "label": "Mar 2018",
+    "Revenues": 26000,
+    "Profits": 4000,
+    "Profit %": 15.38
+  },
+  {
+    "label": "Apr 2018",
+    "Revenues": 24000,
+    "Profits": 5000,
+    "Profit %": 20.83
+  },
+  {
+    "label": "May 2018",
+    "Revenues": 19000,
+    "Profits": 3000,
+    "Profit %": 15.79
+  },
+  {
+    "label": "Jun 2018",
+    "Revenues": 22000,
+    "Profits": 9000,
+    "Profit %": 40.91
+  },
+  {
+    "label": "Jul 2018",
+    "Revenues": 18000,
+    "Profits": 2000,
+    "Profit %": 11.11
+  },
+  {
+    "label": "Aug 2018",
+    "Revenues": 19000,
+    "Profits": 6000,
+    "Profit %": 31.58
+  },
+  {
+    "label": "Sep 2018",
+    "Revenues": 22000,
+    "Profits": 2000,
+    "Profit %": 9.09
+  },
+  {
+    "label": "Oct 2018",
+    "Revenues": 21000,
+    "Profits": 7000,
+    "Profit %": 33.33
+  },
+  {
+    "label": "Nov 2018",
+    "Revenues": 23000,
+    "Profits": 4000,
+    "Profit %": 17.39
+  },
+  {
+    "label": "Dec 2018",
+    "Revenues": 24000,
+    "Profits": 6000,
+    "Profit %": 25
+  }
+]
